@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=x1n-Q&fontSize=80&fontColor=58a6ff&fontAlignY=35&desc=Software%20Developer%20%E2%80%A2%20Security%20Enthusiast%20%E2%80%A2%20Builder&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=x1n-Q&fontSize=80&fontColor=58a6ff&fontAlignY=35&desc=Software%20Developer%20%E2%80%A2%20Web%20Developer%20%E2%80%A2%20Builder&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" />
 
 <!-- TYPING SVG -->
 <a href="https://github.com/x1n-Q">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+tools+that+solve+real+problems;Security+%7C+Mobile+%7C+Full-Stack+%7C+OSINT;Always+shipping.+Always+learning." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+tools+that+solve+real+problems;Web+%7C+Mobile+%7C+Full-Stack+%7C+Open+Source;Always+shipping.+Always+learning." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -36,13 +36,13 @@ alias: x1n-Q
 location: General Santos City, Sarangani 🇵🇭
 timezone: UTC+08:00
 current_focus:
-  - Building practical security tools
+  - Full-stack web development
   - Android & mobile development
-  - Full-stack web applications
-  - Open source intelligence (OSINT)
+  - Building practical developer tools
+  - Open source contributions
 interests:
-  - Cybersecurity & ethical hacking
   - Clean architecture & design patterns
+  - Modern frontend & backend frameworks
   - Self-hosted infrastructure
   - Automation & DevOps
 ```
@@ -76,10 +76,10 @@ interests:
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
 
-### Security & OSINT
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+### Databases & Services
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 </div>
 
@@ -91,58 +91,70 @@ interests:
 <div align="center">
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔍 OSINT-Hub
-<a href="https://github.com/x1n-Q/OSINT-Hub">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=x1n-Q&repo=OSINT-Hub&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" width="100%" />
-</a>
-
-**Open source intelligence toolkit** for reconnaissance and information gathering. Built with Python.
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MIT](https://img.shields.io/badge/-MIT-green?style=flat-square)
+<h3 align="center">🔍 OSINT-Hub</h3>
+<p align="center">
+  <a href="https://github.com/x1n-Q/OSINT-Hub">
+    <img src="https://img.shields.io/badge/⭐_Stars-2-58a6ff?style=flat-square&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square&labelColor=0d1117" />
+  </a>
+</p>
+<p align="center"><strong>Data aggregation toolkit</strong> for collecting and organizing public information.</p>
+<p align="center">
+  <a href="https://github.com/x1n-Q/OSINT-Hub"><img src="https://img.shields.io/badge/-View_Repository_→-58a6ff?style=for-the-badge&logoColor=white&labelColor=0d1117" /></a>
+</p>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🛡️ SecScan
-<a href="https://github.com/x1n-Q/SecScan">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=x1n-Q&repo=SecScan&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" width="100%" />
-</a>
-
-**Security scanning tool** for automated vulnerability discovery and assessment.
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MIT](https://img.shields.io/badge/-MIT-green?style=flat-square)
+<h3 align="center">🛡️ SecScan</h3>
+<p align="center">
+  <a href="https://github.com/x1n-Q/SecScan">
+    <img src="https://img.shields.io/badge/⭐_Stars-1-58a6ff?style=flat-square&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square&labelColor=0d1117" />
+  </a>
+</p>
+<p align="center"><strong>Automated scanning tool</strong> for web application testing and analysis.</p>
+<p align="center">
+  <a href="https://github.com/x1n-Q/SecScan"><img src="https://img.shields.io/badge/-View_Repository_→-58a6ff?style=for-the-badge&logoColor=white&labelColor=0d1117" /></a>
+</p>
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔐 VaultSafe
-<a href="https://github.com/x1n-Q/VaultSafe-Mobile-App">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=x1n-Q&repo=VaultSafe-Mobile-App&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" width="100%" />
-</a>
-
-**Secure vault mobile app** built with Kotlin & Jetpack Compose for Android.
-
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![MIT](https://img.shields.io/badge/-MIT-green?style=flat-square)
+<h3 align="center">🔐 VaultSafe</h3>
+<p align="center">
+  <a href="https://github.com/x1n-Q/VaultSafe-Mobile-App">
+    <img src="https://img.shields.io/badge/⭐_Stars-1-58a6ff?style=flat-square&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/Language-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square&labelColor=0d1117" />
+  </a>
+</p>
+<p align="center"><strong>Secure vault mobile app</strong> built with Kotlin & Jetpack Compose for Android.</p>
+<p align="center">
+  <a href="https://github.com/x1n-Q/VaultSafe-Mobile-App"><img src="https://img.shields.io/badge/-View_Repository_→-58a6ff?style=for-the-badge&logoColor=white&labelColor=0d1117" /></a>
+</p>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎮 Web-Based Emulator
-<a href="https://github.com/x1n-Q/Web-Based-Emulator">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=x1n-Q&repo=Web-Based-Emulator&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" width="100%" />
-</a>
-
-**Browser-based emulator** built with JavaScript for retro gaming in the browser.
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![MIT](https://img.shields.io/badge/-MIT-green?style=flat-square)
+<h3 align="center">🎮 Web-Based Emulator</h3>
+<p align="center">
+  <a href="https://github.com/x1n-Q/Web-Based-Emulator">
+    <img src="https://img.shields.io/badge/⭐_Stars-1-58a6ff?style=flat-square&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square&labelColor=0d1117" />
+  </a>
+</p>
+<p align="center"><strong>Browser-based emulator</strong> built with JavaScript for retro gaming in the browser.</p>
+<p align="center">
+  <a href="https://github.com/x1n-Q/Web-Based-Emulator"><img src="https://img.shields.io/badge/-View_Repository_→-58a6ff?style=for-the-badge&logoColor=white&labelColor=0d1117" /></a>
+</p>
 
 </td>
 </tr>
@@ -156,14 +168,18 @@ interests:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=x1n-Q&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&hide_border=false&count_private=true" alt="GitHub Stats" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=x1n-Q&theme=github-dark-blue&border=30363d&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=x1n-Q&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&hide_border=false&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x1n-Q&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=false&langs_count=8" alt="Top Languages" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x1n-Q&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=false&langs_count=8&cache_seconds=86400" alt="Top Languages" />
 
 </div>
+
+<br/>
+
+> **Note:** If the stats cards above appear blank, they may be temporarily rate-limited. Refresh the page to reload them.
 
 ---
 
@@ -194,10 +210,10 @@ interests:
 <!-- CURRENTLY -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" width="28" /> &nbsp;What I'm Up To
 
-- 🔭 Currently working on **security tooling** and **mobile apps**
+- 🔭 Currently working on **web apps** and **mobile apps**
 - 🌱 Learning **advanced Android architecture** and **cloud infrastructure**
-- 🤝 Open to collaborating on **open source security tools**
-- 💬 Ask me about **Python, Kotlin, OSINT, or web security**
+- 🤝 Open to collaborating on **open source projects**
+- 💬 Ask me about **Python, Kotlin, Laravel, or JavaScript**
 - ⚡ Fun fact: I self-host my own infrastructure and love tinkering with servers
 
 ---
