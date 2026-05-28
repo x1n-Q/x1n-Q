@@ -127,17 +127,17 @@ interests:
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🔐 VaultSafe</h3>
+<h3 align="center">🛍️ Sari-Sari Store System</h3>
 <p align="center">
-  <a href="https://github.com/x1n-Q/VaultSafe-Mobile-App">
+  <a href="https://github.com/x1n-Q/Sari-Sari-Store-System">
     <img src="https://img.shields.io/badge/⭐_Stars-1-58a6ff?style=flat-square&labelColor=0d1117" />
-    <img src="https://img.shields.io/badge/Language-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/Language-PHP-777BB4?style=flat-square&logo=php&logoColor=white&labelColor=0d1117" />
     <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square&labelColor=0d1117" />
   </a>
 </p>
-<p align="center"><strong>Secure vault mobile app</strong> built with Kotlin & Jetpack Compose for Android.</p>
+<p align="center"><strong>POS & Inventory Management</strong> built with PHP and MySQL for local retail shops.</p>
 <p align="center">
-  <a href="https://github.com/x1n-Q/VaultSafe-Mobile-App"><img src="https://img.shields.io/badge/-View_Repository_→-58a6ff?style=for-the-badge&logoColor=white&labelColor=0d1117" /></a>
+  <a href="https://github.com/x1n-Q/Sari-Sari-Store-System"><img src="https://img.shields.io/badge/-View_Repository_→-58a6ff?style=for-the-badge&logoColor=white&labelColor=0d1117" /></a>
 </p>
 
 </td>
@@ -168,18 +168,9 @@ interests:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=x1n-Q&theme=github-dark-blue&border=30363d&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=x1n-Q&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&hide_border=false&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
-
-<br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x1n-Q&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=false&langs_count=8&cache_seconds=86400" alt="Top Languages" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=x1n-Q&theme=github-dark-blue&border=30363d&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
 
 </div>
-
-<br/>
-
-> **Note:** If the stats cards above appear blank, they may be temporarily rate-limited. Refresh the page to reload them.
 
 ---
 
