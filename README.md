@@ -1,60 +1,219 @@
-# <div align="center">x1n-Q</div>
-
 <div align="center">
-  <a href="https://github.com/x1n-Q">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&pause=1200&color=0F172A&center=true&vCenter=true&width=700&lines=Building+clean+things+on+the+internet;Code%2C+experiments%2C+and+constant+leveling+up;Always+learning.+Always+shipping." alt="Typing intro" />
-  </a>
+
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=x1n-Q&fontSize=80&fontColor=58a6ff&fontAlignY=35&desc=Software%20Developer%20%E2%80%A2%20Security%20Enthusiast%20%E2%80%A2%20Builder&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" />
+
+<!-- TYPING SVG -->
+<a href="https://github.com/x1n-Q">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+tools+that+solve+real+problems;Security+%7C+Mobile+%7C+Full-Stack+%7C+OSINT;Always+shipping.+Always+learning." alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- SOCIAL BADGES -->
+[![GitHub](https://img.shields.io/badge/-x1n--Q-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/x1n-Q)
+[![LinkedIn](https://img.shields.io/badge/-Daniel_Depaor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/DanielDepaor)
+[![Portfolio](https://img.shields.io/badge/-danieldepaor.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://danieldepaor.com)
+[![Email](https://img.shields.io/badge/-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danieldepaor13@gmail.com)
+
+<br/>
+
+<!-- PROFILE VIEWS -->
+<img src="https://komarev.com/ghpvc/?username=x1n-Q&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" alt="Profile Views" />
+
 </div>
 
-<p align="center">
-  I like building useful things, exploring new ideas, and improving a little every day.
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://github.com/x1n-Q?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/Projects-View%20Repositories-111827?style=for-the-badge"></a>
-  <a href="https://github.com/x1n-Q?tab=stars"><img alt="Stars" src="https://img.shields.io/badge/GitHub-Follow%20the%20Journey-1f2937?style=for-the-badge"></a>
-</p>
+<!-- ABOUT SECTION -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="28" /> &nbsp;About Me
+
+<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF" />
+
+```yaml
+name: Daniel Depaor
+alias: x1n-Q
+location: General Santos City, Sarangani 🇵🇭
+timezone: UTC+08:00
+current_focus:
+  - Building practical security tools
+  - Android & mobile development
+  - Full-stack web applications
+  - Open source intelligence (OSINT)
+interests:
+  - Cybersecurity & ethical hacking
+  - Clean architecture & design patterns
+  - Self-hosted infrastructure
+  - Automation & DevOps
+```
+
+<br clear="both"/>
 
 ---
 
-## About Me
-
-- Working on becoming sharper at building software that is fast, clean, and reliable.
-- Interested in practical projects, thoughtful design, and learning by shipping.
-- Using this space to share progress, experiments, and things worth improving.
-
-## Current Focus
-
-- Building projects that solve real problems
-- Writing cleaner, more maintainable code
-- Exploring better workflows, tooling, and developer experience
-
-## Toolbox
-
-<p>
-  <img src="https://img.shields.io/badge/Code-Always%20Improving-0f172a?style=flat-square" alt="Code badge" />
-  <img src="https://img.shields.io/badge/Build-Ship%20Often-1e293b?style=flat-square" alt="Build badge" />
-  <img src="https://img.shields.io/badge/Learn-Stay%20Curious-334155?style=flat-square" alt="Learn badge" />
-  <img src="https://img.shields.io/badge/Focus-Useful%20Projects-475569?style=flat-square" alt="Focus badge" />
-</p>
-
-## GitHub Snapshot
+<!-- TECH STACK -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> &nbsp;Tech Stack
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=x1n-Q&show_icons=true&hide_border=true&title_color=0f172a&icon_color=0f172a&text_color=334155&bg_color=ffffff" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x1n-Q&layout=compact&hide_border=true&title_color=0f172a&text_color=334155&bg_color=ffffff" alt="Top languages" />
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Frameworks & Platforms
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+
+### Tools & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+
+### Security & OSINT
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+
 </div>
-
-## Philosophy
-
-> Keep it simple. Make it useful. Improve it again.
-
-## Let's Connect
-
-- GitHub: [@x1n-Q](https://github.com/x1n-Q)
 
 ---
 
+<!-- FEATURED PROJECTS -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28" /> &nbsp;Featured Projects
+
 <div align="center">
-  <sub>Thanks for stopping by.</sub>
+<table>
+<tr>
+<td width="50%">
+
+### 🔍 OSINT-Hub
+<a href="https://github.com/x1n-Q/OSINT-Hub">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=x1n-Q&repo=OSINT-Hub&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" width="100%" />
+</a>
+
+**Open source intelligence toolkit** for reconnaissance and information gathering. Built with Python.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MIT](https://img.shields.io/badge/-MIT-green?style=flat-square)
+
+</td>
+<td width="50%">
+
+### 🛡️ SecScan
+<a href="https://github.com/x1n-Q/SecScan">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=x1n-Q&repo=SecScan&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" width="100%" />
+</a>
+
+**Security scanning tool** for automated vulnerability discovery and assessment.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MIT](https://img.shields.io/badge/-MIT-green?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔐 VaultSafe
+<a href="https://github.com/x1n-Q/VaultSafe-Mobile-App">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=x1n-Q&repo=VaultSafe-Mobile-App&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" width="100%" />
+</a>
+
+**Secure vault mobile app** built with Kotlin & Jetpack Compose for Android.
+
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![MIT](https://img.shields.io/badge/-MIT-green?style=flat-square)
+
+</td>
+<td width="50%">
+
+### 🎮 Web-Based Emulator
+<a href="https://github.com/x1n-Q/Web-Based-Emulator">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=x1n-Q&repo=Web-Based-Emulator&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" width="100%" />
+</a>
+
+**Browser-based emulator** built with JavaScript for retro gaming in the browser.
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![MIT](https://img.shields.io/badge/-MIT-green?style=flat-square)
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+<!-- GITHUB STATS -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="28" /> &nbsp;GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=x1n-Q&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&hide_border=false&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=x1n-Q&theme=github-dark-blue&border=30363d&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
+
+<br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x1n-Q&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=false&langs_count=8" alt="Top Languages" />
+
+</div>
+
+---
+
+<!-- CONTRIBUTION GRAPH -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" width="28" /> &nbsp;Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=x1n-Q&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true)](https://github.com/x1n-Q)
+
+</div>
+
+---
+
+<!-- PHILOSOPHY -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="28" /> &nbsp;Philosophy
+
+<div align="center">
+
+```
+"Keep it simple. Make it useful. Improve it again."
+```
+
+</div>
+
+---
+
+<!-- CURRENTLY -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" width="28" /> &nbsp;What I'm Up To
+
+- 🔭 Currently working on **security tooling** and **mobile apps**
+- 🌱 Learning **advanced Android architecture** and **cloud infrastructure**
+- 🤝 Open to collaborating on **open source security tools**
+- 💬 Ask me about **Python, Kotlin, OSINT, or web security**
+- ⚡ Fun fact: I self-host my own infrastructure and love tinkering with servers
+
+---
+
+<!-- CONNECT -->
+<div align="center">
+
+### 💬 Let's Connect
+
+<a href="https://github.com/x1n-Q"><img src="https://img.shields.io/badge/GitHub-x1n--Q-181717?style=for-the-badge&logo=github" /></a>
+<a href="https://linkedin.com/in/DanielDepaor"><img src="https://img.shields.io/badge/LinkedIn-Daniel_Depaor-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+<a href="https://danieldepaor.com"><img src="https://img.shields.io/badge/Web-danieldepaor.com-000?style=for-the-badge&logo=vercel" /></a>
+<a href="mailto:danieldepaor13@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" width="100%" />
+
 </div>
