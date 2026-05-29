@@ -5,7 +5,7 @@
 
 <!-- TYPING SVG -->
 <a href="https://github.com/x1n-Q">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+tools+that+solve+real+problems;Web+%7C+Mobile+%7C+Full-Stack+%7C+Open+Source;Always+shipping.+Always+learning." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Software+Developer;Web+%E2%80%A2+Mobile+%E2%80%A2+Full-Stack" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -38,7 +38,7 @@ timezone: UTC+08:00
 current_focus:
   - Full-stack web development
   - Android & mobile development
-  - Building practical developer tools
+  - Developer tooling
   - Open source contributions
 interests:
   - Clean architecture & design patterns
