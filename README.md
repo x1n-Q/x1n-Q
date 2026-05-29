@@ -33,7 +33,7 @@
 ```yaml
 name: Daniel Depaor
 alias: x1n-Q
-location: General Santos City, Sarangani 🇵🇭
+location: General Santos City 🇵🇭
 timezone: UTC+08:00
 current_focus:
   - Full-stack web development
