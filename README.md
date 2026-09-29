@@ -1,12 +1,16 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=x1n-Q&fontSize=80&fontColor=58a6ff&fontAlignY=35&desc=Founder%20%26%20Developer%20of%20Linkora%20%E2%80%A2%20Software%20Developer%20%E2%80%A2%20Web%20%26%20Mobile%20Engineer&descSize=17&descColor=8b949e&descAlignY=55&animation=fadeIn" />
+<h1>Daniel Depaor</h1>
 
-<!-- TYPING SVG -->
-<a href="https://github.com/x1n-Q">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=110&lines=Founder+%26+Developer+of+Linkora;Full-Stack+Software+Developer;Web+%E2%80%A2+Mobile+%E2%80%A2+Infrastructure" alt="Typing SVG" />
-</a>
+<h3>Founder & Developer of <a href="https://linkora.top">Linkora</a></h3>
+
+<p>
+  Software Developer | Web and Mobile Engineer | Infrastructure Builder
+</p>
+
+<p>
+  <strong>Linkora:</strong> <a href="https://linkora.top">https://linkora.top</a>
+</p>
 
 <br/>
 
@@ -29,8 +33,6 @@
 <!-- ABOUT SECTION -->
 ## About Me
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF" />
-
 ```yaml
 name: Daniel Depaor
 alias: x1n-Q
@@ -52,8 +54,6 @@ professional_interests:
   - Self-hosted infrastructure
   - Automation, DevOps, and deployment workflows
 ```
-
-<br clear="both"/>
 
 ---
 
@@ -233,7 +233,5 @@ Build practical software. Keep systems maintainable. Improve with every release.
 Official Linkora website: <a href="https://linkora.top"><strong>https://linkora.top</strong></a>
 
 <br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" width="100%" />
 
 </div>
