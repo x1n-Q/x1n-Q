@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=x1n-Q&fontSize=80&fontColor=58a6ff&fontAlignY=35&desc=Software%20Developer%20%E2%80%A2%20Web%20Developer%20%E2%80%A2%20Builder&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=x1n-Q&fontSize=80&fontColor=58a6ff&fontAlignY=35&desc=Founder%20%26%20Developer%20of%20Linkora%20%E2%80%A2%20Software%20Developer%20%E2%80%A2%20Web%20%26%20Mobile%20Engineer&descSize=17&descColor=8b949e&descAlignY=55&animation=fadeIn" />
 
 <!-- TYPING SVG -->
 <a href="https://github.com/x1n-Q">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Software+Developer;Web+%E2%80%A2+Mobile+%E2%80%A2+Full-Stack" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=110&lines=Founder+%26+Developer+of+Linkora;Full-Stack+Software+Developer;Web+%E2%80%A2+Mobile+%E2%80%A2+Infrastructure" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -14,7 +14,8 @@
 [![GitHub](https://img.shields.io/badge/-x1n--Q-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/x1n-Q)
 [![LinkedIn](https://img.shields.io/badge/-Daniel_Depaor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/DanielDepaor)
 [![Portfolio](https://img.shields.io/badge/-danieldepaor.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://danieldepaor.com)
-[![Email](https://img.shields.io/badge/-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danieldepaor13@gmail.com)
+[![Linkora](https://img.shields.io/badge/-Linkora-813C42?style=for-the-badge&logo=link&logoColor=white)](https://linkora.top)
+[![Email](https://img.shields.io/badge/-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danieldepaor13@gmail.com)
 
 <br/>
 
@@ -26,25 +27,30 @@
 <br/>
 
 <!-- ABOUT SECTION -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="28" /> &nbsp;About Me
+## About Me
 
 <img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF" />
 
 ```yaml
 name: Daniel Depaor
 alias: x1n-Q
-location: General Santos City 🇵🇭
+location: General Santos City, Philippines
 timezone: UTC+08:00
+role:
+  - Founder & Developer of Linkora
+  - Software Developer
+  - Web and Mobile Engineer
+linkora: https://linkora.top
 current_focus:
+  - Building Linkora
   - Full-stack web development
-  - Android & mobile development
-  - Developer tooling
-  - Open source contributions
-interests:
-  - Clean architecture & design patterns
-  - Modern frontend & backend frameworks
+  - Android and mobile development
+  - Developer tooling and infrastructure
+professional_interests:
+  - Clean architecture and maintainable systems
+  - Modern frontend and backend frameworks
   - Self-hosted infrastructure
-  - Automation & DevOps
+  - Automation, DevOps, and deployment workflows
 ```
 
 <br clear="both"/>
@@ -52,7 +58,7 @@ interests:
 ---
 
 <!-- TECH STACK -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> &nbsp;Tech Stack
+## Technical Stack
 
 <div align="center">
 
@@ -86,40 +92,42 @@ interests:
 ---
 
 <!-- FEATURED PROJECTS -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28" /> &nbsp;Featured Projects
+## Featured Projects
 
 <div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🔍 OSINT-Hub</h3>
+<h3 align="center">Linkora</h3>
+<p align="center">
+  <a href="https://linkora.top">
+    <img src="https://img.shields.io/badge/Role-Founder_%26_Developer-813C42?style=flat-square&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/Platform-Web-58a6ff?style=flat-square&labelColor=0d1117" />
+  </a>
+</p>
+<p align="center"><strong>Lightweight developer infrastructure platform</strong> for free subdomains, managed tunnels, verification, and deployment workflows.</p>
+<p align="center">
+  Official website: <a href="https://linkora.top"><strong>https://linkora.top</strong></a>
+</p>
+<p align="center">
+  <a href="https://linkora.top"><img src="https://img.shields.io/badge/-Visit_Linkora-813C42?style=for-the-badge&logoColor=white&labelColor=0d1117" /></a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">OSINT-Hub</h3>
 <p align="center">
   <a href="https://github.com/x1n-Q/OSINT-Hub">
-    <img src="https://img.shields.io/badge/⭐_Stars-2-58a6ff?style=flat-square&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/Stars-2-58a6ff?style=flat-square&labelColor=0d1117" />
     <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0d1117" />
     <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square&labelColor=0d1117" />
   </a>
 </p>
 <p align="center"><strong>Data aggregation toolkit</strong> for collecting and organizing public information.</p>
 <p align="center">
-  <a href="https://github.com/x1n-Q/OSINT-Hub"><img src="https://img.shields.io/badge/-View_Repository_→-58a6ff?style=for-the-badge&logoColor=white&labelColor=0d1117" /></a>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">🛡️ SecScan</h3>
-<p align="center">
-  <a href="https://github.com/x1n-Q/SecScan">
-    <img src="https://img.shields.io/badge/⭐_Stars-1-58a6ff?style=flat-square&labelColor=0d1117" />
-    <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0d1117" />
-    <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square&labelColor=0d1117" />
-  </a>
-</p>
-<p align="center"><strong>Automated scanning tool</strong> for web application testing and analysis.</p>
-<p align="center">
-  <a href="https://github.com/x1n-Q/SecScan"><img src="https://img.shields.io/badge/-View_Repository_→-58a6ff?style=for-the-badge&logoColor=white&labelColor=0d1117" /></a>
+  <a href="https://github.com/x1n-Q/OSINT-Hub"><img src="https://img.shields.io/badge/-View_Repository-58a6ff?style=for-the-badge&logoColor=white&labelColor=0d1117" /></a>
 </p>
 
 </td>
@@ -127,33 +135,33 @@ interests:
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🛍️ Sari-Sari Store System</h3>
+<h3 align="center">SecScan</h3>
 <p align="center">
-  <a href="https://github.com/x1n-Q/Sari-Sari-Store-System">
-    <img src="https://img.shields.io/badge/⭐_Stars-1-58a6ff?style=flat-square&labelColor=0d1117" />
-    <img src="https://img.shields.io/badge/Language-PHP-777BB4?style=flat-square&logo=php&logoColor=white&labelColor=0d1117" />
+  <a href="https://github.com/x1n-Q/SecScan">
+    <img src="https://img.shields.io/badge/Stars-1-58a6ff?style=flat-square&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0d1117" />
     <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square&labelColor=0d1117" />
   </a>
 </p>
-<p align="center"><strong>POS & Inventory Management</strong> built with PHP and MySQL for local retail shops.</p>
+<p align="center"><strong>Automated scanning tool</strong> for web application testing and analysis.</p>
 <p align="center">
-  <a href="https://github.com/x1n-Q/Sari-Sari-Store-System"><img src="https://img.shields.io/badge/-View_Repository_→-58a6ff?style=for-the-badge&logoColor=white&labelColor=0d1117" /></a>
+  <a href="https://github.com/x1n-Q/SecScan"><img src="https://img.shields.io/badge/-View_Repository-58a6ff?style=for-the-badge&logoColor=white&labelColor=0d1117" /></a>
 </p>
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🎮 Web-Based Emulator</h3>
+<h3 align="center">Sari-Sari Store System</h3>
 <p align="center">
-  <a href="https://github.com/x1n-Q/Web-Based-Emulator">
-    <img src="https://img.shields.io/badge/⭐_Stars-1-58a6ff?style=flat-square&labelColor=0d1117" />
-    <img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=0d1117" />
+  <a href="https://github.com/x1n-Q/Sari-Sari-Store-System">
+    <img src="https://img.shields.io/badge/Stars-1-58a6ff?style=flat-square&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/Language-PHP-777BB4?style=flat-square&logo=php&logoColor=white&labelColor=0d1117" />
     <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square&labelColor=0d1117" />
   </a>
 </p>
-<p align="center"><strong>Browser-based emulator</strong> built with JavaScript for retro gaming in the browser.</p>
+<p align="center"><strong>POS and inventory management system</strong> built with PHP and MySQL for local retail shops.</p>
 <p align="center">
-  <a href="https://github.com/x1n-Q/Web-Based-Emulator"><img src="https://img.shields.io/badge/-View_Repository_→-58a6ff?style=for-the-badge&logoColor=white&labelColor=0d1117" /></a>
+  <a href="https://github.com/x1n-Q/Sari-Sari-Store-System"><img src="https://img.shields.io/badge/-View_Repository-58a6ff?style=for-the-badge&logoColor=white&labelColor=0d1117" /></a>
 </p>
 
 </td>
@@ -164,7 +172,7 @@ interests:
 ---
 
 <!-- GITHUB STATS -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="28" /> &nbsp;GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -175,7 +183,7 @@ interests:
 ---
 
 <!-- CONTRIBUTION GRAPH -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" width="28" /> &nbsp;Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -185,13 +193,13 @@ interests:
 
 ---
 
-<!-- PHILOSOPHY -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="28" /> &nbsp;Philosophy
+<!-- PROFESSIONAL PRINCIPLES -->
+## Professional Principles
 
 <div align="center">
 
 ```
-"Keep it simple. Make it useful. Improve it again."
+Build practical software. Keep systems maintainable. Improve with every release.
 ```
 
 </div>
@@ -199,25 +207,30 @@ interests:
 ---
 
 <!-- CURRENTLY -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" width="28" /> &nbsp;What I'm Up To
+## Current Work
 
-- 🔭 Currently working on **web apps** and **mobile apps**
-- 🌱 Learning **advanced Android architecture** and **cloud infrastructure**
-- 🤝 Open to collaborating on **open source projects**
-- 💬 Ask me about **Python, Kotlin, Laravel, or JavaScript**
-- ⚡ Fun fact: I self-host my own infrastructure and love tinkering with servers
+- Building and maintaining **Linkora**: <a href="https://linkora.top">https://linkora.top</a>
+- Developing **web applications** and **mobile applications**
+- Improving skills in **Android architecture**, **cloud infrastructure**, and **deployment automation**
+- Open to collaboration on **open source projects** and practical developer tools
+- Comfortable working with **Python, Kotlin, Laravel, JavaScript, Linux, and self-hosted infrastructure**
 
 ---
 
 <!-- CONNECT -->
 <div align="center">
 
-### 💬 Let's Connect
+### Contact
 
 <a href="https://github.com/x1n-Q"><img src="https://img.shields.io/badge/GitHub-x1n--Q-181717?style=for-the-badge&logo=github" /></a>
 <a href="https://linkedin.com/in/DanielDepaor"><img src="https://img.shields.io/badge/LinkedIn-Daniel_Depaor-0A66C2?style=for-the-badge&logo=linkedin" /></a>
 <a href="https://danieldepaor.com"><img src="https://img.shields.io/badge/Web-danieldepaor.com-000?style=for-the-badge&logo=vercel" /></a>
-<a href="mailto:danieldepaor13@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkora.top"><img src="https://img.shields.io/badge/Linkora-Founder_%26_Developer-813C42?style=for-the-badge&logo=link&logoColor=white" /></a>
+<a href="mailto:danieldepaor13@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/>
+
+Official Linkora website: <a href="https://linkora.top"><strong>https://linkora.top</strong></a>
 
 <br/><br/>
 
